@@ -1,1 +1,1 @@
-# LNBT/trangchu.html
+# trangchu.html
